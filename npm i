@@ -1,0 +1,1 @@
+npm i gulp gulp-watch gulp-autoprefixer gulp-uglify gulp-jshint jshint gulp-sass gulp-sourcemaps gulp-rigger gulp-clean-css gulp-imagemin imagemin-pngquant rimraf gulp-rename gulp-plumber browser-sync jshint-stylish -D
