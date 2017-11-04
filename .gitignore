@@ -5,5 +5,4 @@
 *.pdf
 *.psd
 *.sublime*
-node_modules/
 Thumbs.db
